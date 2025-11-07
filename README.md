@@ -1,4 +1,5 @@
-# XdevSite_1year
-Сайту "Хачапури dev" исполняется 1 год. Здесь вы можете скачать самые первые версии сайта.
+# XdevSite_Resources
+Пока основной ресурс для хранения больших данных
 
-<img width="1920" height="1080" alt="Снимок экрана 2025-10-08 151341-01" src="https://github.com/user-attachments/assets/8d26668b-abc4-4111-87b3-97f5d416a0e2" />
+<img width="1897" height="965" alt="image" src="https://github.com/user-attachments/assets/f3792166-2dba-469e-a335-0030a8712301" />
+
